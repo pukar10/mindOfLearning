@@ -1,0 +1,20 @@
+**Initialize local git repo 
+git init 
+
+**Set origin
+git remote add origin <URL>
+
+**Add files to staging for local branch
+git add <filename>
+
+**Commit files to local branch
+git commit -m "<message>"
+
+**Push files to remote repository
+git push origin <branch-name>
+
+**Download objects from repository no changes to your local
+git fetch
+
+**Fetch and merge with local branch
+git pull
