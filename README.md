@@ -12,7 +12,6 @@ Initial setup
 
 Cleanup
 - [ ] format README file
-- [ ] create algorithm folder
 
 
 
