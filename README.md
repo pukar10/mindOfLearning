@@ -1,14 +1,9 @@
 # mindUniversity
 Collection of knowledge and practice
-https://pukar.atlassian.net/wiki/spaces/MINDUNIVER/pages/327681/Links
+Confluence -> https://pukar.atlassian.net/wiki/spaces/MINDUNIVER/pages/327681/Links
+Jira -> https://pukar.atlassian.net/jira/software/projects/MIND/boards/1
 
-Initial setup
-- [x] github repo
 
-- [x] Jira  
-  - [x] Jira to github
-
-- [ ] Slack
 
 
 
