@@ -2,12 +2,12 @@
 collection of knowledge and practice
 
 Initial setup
-- [x] Setup github repo
+- [x] github repo
 
-- [x] Setup Jira  
-  - [x] Connect Jira to github
+- [x] Jira  
+  - [x] Jira to github
 
-- [ ] Setup Slack
+- [ ] Slack
 
 
 
