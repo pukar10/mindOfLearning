@@ -1,0 +1,11 @@
+initialize: arrayName = [default-value]*size
+            arrayName = [default-value for i in range(size)] 
+
+
+
+Why use Numpy arrays?
+NumPy arrays are faster and more compact than Python lists.
+
+import numpy as np 
+arrayName = np.empty(3, dtype=object)
+output: [None, None, None]  
