@@ -10,8 +10,5 @@ Initial setup
 - [ ] Setup Slack
 
 
-Cleanup
-- [ ] format README file
-
 
 
